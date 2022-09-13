@@ -1,8 +1,3 @@
-import time
-import random
-import numpy as np
-
-
 # borrow book   --->   1
 # return book   --->   2
 # search book   --->   3
@@ -155,6 +150,4 @@ while b:
     if q.lower() == 'yes':
         b = True
     else:
-        b = False
-
-        
+        b = False    
